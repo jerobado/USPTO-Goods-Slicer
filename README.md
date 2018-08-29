@@ -10,6 +10,11 @@ Usage
 'Literary agencies'
 ```
 
+Benefit(s)
+---
+* Easily identify the remove goods and services. 
+
+
 Source
 ---
 * [USTPO Guidance for Users](https://www.uspto.gov/trademark/guides-and-manuals/guidance-users##Brackets)
