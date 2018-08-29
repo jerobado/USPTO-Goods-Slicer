@@ -17,4 +17,4 @@ Benefit(s)
 
 Source
 ---
-* [USTPO Guidance for Users](https://www.uspto.gov/trademark/guides-and-manuals/guidance-users##Brackets)
+* [USPTO Guidance for Users](https://www.uspto.gov/trademark/guides-and-manuals/guidance-users##Brackets)
