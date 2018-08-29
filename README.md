@@ -5,7 +5,7 @@ _USPTO Goods Slicer_ is Python library that can remove bracketed goods and servi
 Usage
 ---
 ```python
->>> import uspto_goods slicer as ugs
+>>> import uspto_goods_slicer as ugs
 >>> ugs.remove_square_brackets('Literary agencies [management]')
 'Literary agencies'
 ```
